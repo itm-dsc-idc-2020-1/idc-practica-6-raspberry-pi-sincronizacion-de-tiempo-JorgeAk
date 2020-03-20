@@ -3,5 +3,5 @@ idc-practica-6-raspberry-pi-sincronizacion-de-tiempo-JorgeAk created by GitHub C
 <h3>Práctica 6: Raspberry Pi (sincronización de tiempo)</h3>
 
 <p>Instrucciones</p>
-Instalar ntplib
-Correr el archivo Sincronizacion.py
+<p>Instalar ntplib</p>
+<p>Correr el archivo Sincronizacion.py</p>
